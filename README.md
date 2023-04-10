@@ -24,7 +24,7 @@ This repository contains the source code for an Online Task Management Applicati
 ## Installation
 1. Clone the repository to your local machine:
 ```cmd
-git clone https://github.com/Muttahar-Farooq/online-task-management-application.git
+git clone https://github.com/Muttahar-Farooq/Online-Task-Management-Application.git
 ```
 2. Change to the repository directory:
 ```cmd
