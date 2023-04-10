@@ -28,7 +28,7 @@ git clone https://github.com/Muttahar-Farooq/Online-Task-Management-Application.
 ```
 2. Change to the repository directory:
 ```cmd
-cd online-task-management-application
+cd Online-Task-Management-Application
 ```
 3. Install the server dependencies:
 ```cmd
