@@ -23,15 +23,15 @@ This repository contains the source code for an Online Task Management Applicati
 
 ## Installation
 1. Clone the repository to your local machine:
-```bash
+```cmd
 git clone https://github.com/yourusername/online-task-management-application.git
 ```
 2. Change to the repository directory:
-```bash
+```cmd
 cd online-task-management-application
 ```
 3. Install the server dependencies:
-```bash
+```cmd
 cd server
 npm install
 ```
